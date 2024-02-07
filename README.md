@@ -1,7 +1,7 @@
-# COMP4108-4th-Year-Project
+# COMP4202-4th-Year-Project
 ## Project Description:
 
-Testing the Performance of Various Spatial Indexing Algorithms for Geographic Information Systems
+Testing the Performance of Various Spatial Indexing Data Structures for Geographic Information Systems
 
 ## Project Details:
 
